@@ -1,0 +1,33 @@
+.box1{
+    background-color:#4CAF50;
+    height:150px;
+    padding-top: 10px;
+   
+}
+
+.box2{
+    list-style-type: none;
+    display: flex;
+    gap:10px;
+    justify-content: center;
+    color:blue;
+    text-align: center;
+    padding-top: 10px;
+}
+
+
+.box4{
+    margin-left: 10px;
+    padding-top: 20px;
+} 
+img{
+    width:200px;
+    height:100px;
+}
+
+
+
+
+
+
+
