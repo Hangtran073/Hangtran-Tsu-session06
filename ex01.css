@@ -1,0 +1,23 @@
+.box1{
+    background-color:#007BFF ;
+    color:#F1FCFF;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    gap:50px;
+    justify-content: center;
+    
+    
+}
+img{
+    height:150px; width:150px;
+    border: 1px solid #0000ff;
+    border-radius: 50%;
+}
+a{
+    color:blue;
+}
